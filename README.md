@@ -13,3 +13,5 @@
     - Entweder mit `pip install <paketname>`
     - Oder mit `pip install -r requirements.txt`
         - streamlit
+
+streamlit run main.py
